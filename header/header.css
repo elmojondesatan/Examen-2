@@ -1,0 +1,19 @@
+.header{
+    max-width: 375px;
+    height: 80px;
+    border: 1px solid black;
+}
+
+.header div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px;
+}
+
+.b1{
+    width: 75px;
+    height: 22px;
+    background-color: rgb(83, 79, 79);
+    color: white;
+}
